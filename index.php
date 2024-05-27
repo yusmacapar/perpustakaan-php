@@ -15,7 +15,7 @@
     <title>Aplikasi Perpustakaan</title>
 </head>
 <body>
-    <h1>Aplikasi Perpustakaan</h1>
+    <h1>Aplikasi Perpustakaan V.2</h1>
 
     <a href="./buku.php">Lihat daftar buku</a>
     <br>
